@@ -1,6 +1,8 @@
 # LLM-Papers
 This is a repo of the papers I am reading and abstracts / notes:
 
+
+All Links:
 - https://arxiv.org/abs/2305.18290
 - https://arxiv.org/abs/2403.1545
 - https://arxiv.org/abs/2006.0838
@@ -55,7 +57,6 @@ This is a repo of the papers I am reading and abstracts / notes:
 - https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pd
 - https://arxiv.org/abs/2209.0474
 - https://arxiv.org/abs/2305.1060
-- https://arxiv.org/abs/1706.0376
 - https://arxiv.org/abs/2310.0856
 - https://arxiv.org/abs/2303.1765
 - https://arxiv.org/abs/2303.1136
@@ -65,3 +66,31 @@ This is a repo of the papers I am reading and abstracts / notes:
 - https://arxiv.org/pdf/2304.0137
 - https://arxiv.org/abs/2310.0677
 - https://arxiv.org/pdf/2404.07143
+- https://arxiv.org/pdf/2305.14387
+- https://arxiv.org/pdf/2304.05128
+- https://arxiv.org/abs/2308.12033
+- https://arxiv.org/pdf/2304.12998
+- https://arxiv.org/pdf/2404.12253
+- https://arxiv.org/pdf/2307.15217
+- https://arxiv.org/pdf/2305.11738
+- https://arxiv.org/pdf/2305.10142
+- https://arxiv.org/pdf/2304.01904
+- https://arxiv.org/pdf/2309.02427
+- https://www.researchgate.net/profile/Wenshan-Wu-2/publication/372286729_Unleashing_Cognitive_Synergy_in_Large_Language_Models_A_Task-Solving_Agent_through_Multi-Persona_Self-Collaboration/links/653b83255d51a8012b727b89/Unleashing-Cognitive-Synergy-in-Large-Language-Models-A-Task-Solving-Agent-through-Multi-Persona-Self-Collaboration.pdf
+- https://arxiv.org/pdf/2308.02151
+- https://openreview.net/pdf?id=EHg5GDnyq1
+- https://arxiv.org/pdf/2306.02907
+- https://arxiv.org/pdf/2310.08118
+- https://arxiv.org/pdf/2311.04205
+- https://arxiv.org/pdf/2310.02124
+- https://openreview.net/pdf?id=y0GJXRungR
+- https://arxiv.org/pdf/2309.17288
+- https://arxiv.org/pdf/2401.05268
+- https://arxiv.org/pdf/2305.14483
+- https://arxiv.org/pdf/2310.18628
+- https://arxiv.org/pdf/2310.00533
+- https://arxiv.org/pdf/2310.01557
+- https://dl.acm.org/doi/abs/10.1145/3649825
+- https://arxiv.org/pdf/2401.02009
+- https://arxiv.org/pdf/2305.02626
+- https://arxiv.org/pdf/2310.17918
