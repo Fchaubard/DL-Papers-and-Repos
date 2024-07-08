@@ -3,6 +3,7 @@ This is a list of papers and repos I find interesting.
 
 
 All Links (only):
+- https://arxiv.org/pdf/2404.17563
 - https://arxiv.org/pdf/2402.14740
 - https://arxiv.org/pdf/2305.18290
 - https://arxiv.org/pdf/2403.01545
