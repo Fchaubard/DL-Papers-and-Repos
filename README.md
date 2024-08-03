@@ -88,4 +88,22 @@ All Links (only):
 - https://arxiv.org/pdf/2304.05128
 - https://arxiv.org/pdf/2106.05931
 - https://arxiv.org/pdf/2402.11359
-- 
+- https://arxiv.org/pdf/2305.14671
+- https://arxiv.org/pdf/1503.03585
+- https://arxiv.org/pdf/1910.13461
+- https://arxiv.org/pdf/2407.12854
+- https://arxiv.org/pdf/2302.02060
+- https://arxiv.org/pdf/2001.08785
+- https://arxiv.org/pdf/2404.08801
+- https://arxiv.org/pdf/2310.15123
+- https://arxiv.org/pdf/2407.20199
+- https://arxiv.org/pdf/2405.20233
+- https://arxiv.org/pdf/1810.04805
+- https://arxiv.org/pdf/1909.11942v6
+- https://arxiv.org/pdf/1907.11692v1
+- https://arxiv.org/pdf/2210.17432
+- https://arxiv.org/pdf/2006.09011
+- https://arxiv.org/pdf/2012.09841
+- https://arxiv.org/pdf/2406.07524
+- https://arxiv.org/pdf/1503.03585
+- https://sander.ai/2023/01/09/diffusion-language.html
